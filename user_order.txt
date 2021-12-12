@@ -1,0 +1,6 @@
+Coca-Cola,1.99,
+Coca-Cola,1.99,
+Mountain Dew,2.99,
+Mountain Dew,2.99,
+Mountain Dew,2.99,
+Fanta,2.7,
